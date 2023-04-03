@@ -3,4 +3,5 @@
 	height: 200px;
 	background-color: red;
 	position: relative;
+	transition: linear 2s, transform 3s ease;
 }
